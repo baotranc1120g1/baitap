@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button onclick="do_s()">test</button>
+    <p id="demo">press</p>
+    <h1 id="display"></h1>
+</body>
+</html>
+<script>
+    var isClick = true;
+    function do_s() {
+        if (isClick){
+            alert("llllllllllllllllllllllllllll")
+            isClick=false;
+        } else {
+            alert("bbbbbbbbbbbbbbbbbbbbbbbbb")
+            isClick = true;
+        }
+
+    };
+
+    var demo = document.getElementById("demo");
+    demo.addEventListener("click",clickFunciton);
+    function clickFunciton() {
+        if (isClick){
+           document.getElementById("display").innerText = "abc";
+
+            isClick=false;
+        } else {
+            document.getElementById("display").innerText = "";
+
+            isClick = true;
+        }
+
+    }
+</script>

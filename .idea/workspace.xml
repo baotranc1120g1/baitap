@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e0a5ccd-9b05-420c-a6d1-1a04f045b68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/formsearchgoogle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tester.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formcơbản.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hienthidaura.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jjs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formsearchgoogle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tester.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +37,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\666\WebstormProjects\untitled8" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,7 +56,11 @@
       <updated>1607324797793</updated>
       <workItem from="1607324798891" duration="3477000" />
       <workItem from="1607328304953" duration="943000" />
-      <workItem from="1607331286579" duration="2154000" />
+      <workItem from="1607331286579" duration="5526000" />
+      <workItem from="1607336826062" duration="2000" />
+      <workItem from="1607392578962" duration="3075000" />
+      <workItem from="1607396863534" duration="6701000" />
+      <workItem from="1607409521318" duration="7008000" />
     </task>
     <servers />
   </component>
