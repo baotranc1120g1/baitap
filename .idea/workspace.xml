@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e0a5ccd-9b05-420c-a6d1-1a04f045b68f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/biến_toán_tử_kiểu_dữ_liệu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt_toan_tu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chu_vi_hình_tròn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chuyểnđổitiền.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diện_tích_hình_tròn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/độ_C.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toan tu.html" beforeDir="false" afterPath="$PROJECT_DIR$/toantu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1lJox23vYMlyYNglnQgWrflIpiK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,7 +67,8 @@
       <workItem from="1607409521318" duration="11214000" />
       <workItem from="1607447211701" duration="2112000" />
       <workItem from="1607482901038" duration="7146000" />
-      <workItem from="1607495906097" duration="935000" />
+      <workItem from="1607495906097" duration="12935000" />
+      <workItem from="1607518225905" duration="631000" />
     </task>
     <servers />
   </component>
