@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e0a5ccd-9b05-420c-a6d1-1a04f045b68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nhúng.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nhúngjs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formcơbản.html" beforeDir="false" afterPath="$PROJECT_DIR$/formcơbản.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hienthidaura.html" beforeDir="false" afterPath="$PROJECT_DIR$/hienthidaura.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/formcơbản.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nhúngjs.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -58,7 +58,9 @@
       <workItem from="1607336826062" duration="2000" />
       <workItem from="1607392578962" duration="3075000" />
       <workItem from="1607396863534" duration="6701000" />
-      <workItem from="1607409521318" duration="9379000" />
+      <workItem from="1607409521318" duration="11214000" />
+      <workItem from="1607447211701" duration="2112000" />
+      <workItem from="1607482901038" duration="5697000" />
     </task>
     <servers />
   </component>
