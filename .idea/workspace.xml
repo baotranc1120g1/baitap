@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e0a5ccd-9b05-420c-a6d1-1a04f045b68f" name="Default Changelist" comment="" />
+    <list default="true" id="9e0a5ccd-9b05-420c-a6d1-1a04f045b68f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt_nam_nhuan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuyểnđổitiền.html" beforeDir="false" afterPath="$PROJECT_DIR$/chuyểnđổitiền.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +44,16 @@
       <recent name="C:\Users\666\WebstormProjects\untitled8" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="add.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled8/add.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.add.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +73,7 @@
       <workItem from="1607482901038" duration="7146000" />
       <workItem from="1607495906097" duration="12935000" />
       <workItem from="1607518225905" duration="9387000" />
-      <workItem from="1607570109117" duration="2858000" />
+      <workItem from="1607570109117" duration="6920000" />
     </task>
     <servers />
   </component>
